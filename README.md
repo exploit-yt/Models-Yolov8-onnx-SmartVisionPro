@@ -6,4 +6,4 @@ Incluye diversos modelos recopilados y adaptados desde múltiples fuentes, mucho
 
 Este repositorio sirve como contenedor de modelos de prueba y referencia, enfocados a fines experimentales y de desarrollo.
 
-DISCORD AimStickVision: https://discord.com/invite/xJMmQTGKAn
+DISCORD StickAimVision: https://discord.com/invite/xJMmQTGKAn
