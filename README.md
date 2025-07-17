@@ -1,4 +1,4 @@
-# modelos-onnx-stickaimvision
+# modelos-onnx-SmartVisionPro
 
 Proyecto de seguimiento automático con modelos YOLOv8 en formato ONNX, integrados en el sistema StickAimVision. 
 
